@@ -6,7 +6,7 @@ I'm a self motivated, hard working person with love about coding and solving pro
 
 Skills: .NET, C#, Blazor, RabbitMQ, Redis, Docker, CSS, HTML.
 
-- 🔭 I’m currently working on Kaizen Gaming 
+- 🔭 I’m currently working at Kaizen Gaming 
 - 🌱 I’m currently learning Anything .NET Related 
 - 📫 How to reach me: thanos.katrakis.dev@gmail.com 
 
