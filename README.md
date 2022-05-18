@@ -1,5 +1,5 @@
 ## Hi there 👋, my name is Thanos Katrakis
-### I am a software developer
+### I am a Software Developer
 
 I'm a self motivated, hard working person with love about coding and solving problems. A great fan of teamwork and a keen eye for detail. Always willing to learn something new and trying to improve my knowledge. My goal is to learn something new every day in order to become a well rounded developer.
 
