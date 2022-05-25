@@ -8,4 +8,4 @@ Also I'm a self motivated, hard working person with love about coding and solvin
 
 <br/>
 
-Skills: .NET, C#, Blazor, T-SQL, CSS, HTML.
+Skills: .NET, C#, Blazor, T-SQL, JS, Entity Framework, CSS, HTML.
